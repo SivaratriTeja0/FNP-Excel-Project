@@ -11,12 +11,6 @@ The analysis and dashboard were created using **Microsoft Excel**, utilizing **P
 
 ---
 
-## 📊 Dashboard Preview
-
-![FNP Sales Dashboard](Screenshot 2024-10-24 160552.png)
-
----
-
 ## 📈 Key Metrics
 
 • **Total Orders:** 1000
